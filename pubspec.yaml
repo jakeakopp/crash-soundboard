@@ -43,15 +43,18 @@ flutter:
     - assets/fly.m4a
     - assets/larson.m4a
     - assets/listening.m4a
+    - assets/imhavingfun.m4a
     - assets/noregrets.m4a
     - assets/smallball.m4a
+    - assets/wearegood.m4a
+    - images/babyface.png
     - images/brad.png
     - images/disc.jpg
     - images/ear.png
+    - images/petermullen.png
+    - images/swing.jpg
     - images/tom.png
     - images/yaacov.png
-    - images/yaacov.jpg
-    - images/yaacov2.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.

@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
               onTap: () => _onClicked("benefit"),
             ),
             InkResponse(
-              child: Image.asset('images/yaacov2.png', fit: BoxFit.cover),
+              child: Image.asset('images/swing.jpg', fit: BoxFit.cover),
               onTap: () => _onClicked("larson"),
             ),
             InkResponse(
@@ -45,6 +45,10 @@ class MyApp extends StatelessWidget {
             InkResponse(
               child: Image.asset('images/babyface.png', fit: BoxFit.cover),
               onTap: () => _onClicked('wearegood'),
+            ),
+            InkResponse(
+              child: Image.asset('images/petermullen.png', fit: BoxFit.cover),
+              onTap: () => _onClicked('imhavingfun'),
             ),
           ],
         ),
